@@ -1,0 +1,12 @@
+numpy
+networkx
+pylatexenc
+matplotlib<3.10
+qiskit
+seaborn
+pandas
+qclib
+pydot
+qiskit-aer
+pydot
+graphviz
